@@ -1,0 +1,20 @@
+{
+  "test_read_data": {
+    "lengths": [
+      1750,
+      250,
+      500
+    ]
+  },
+  "test_prepare_data": {
+    "dev_texts_shape": [
+      250,
+      61
+    ],
+    "train_labels_shape": [
+      1750,
+      77
+    ]
+  },
+  "test_model": "NameError(\"name 'evaluate' is not defined\")"
+}
