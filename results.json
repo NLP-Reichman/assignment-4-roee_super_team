@@ -1,0 +1,14 @@
+{
+  "test_read_data": {
+    "lengths": [
+      1750,
+      250,
+      500
+    ]
+  },
+  "test_prepare_data": "IndexError('too many indices for tensor of dimension 2')",
+  "test_model": {
+    "f1": 0.9845668174907359,
+    "f1_wo_o": 0.8917120430836253
+  }
+}
