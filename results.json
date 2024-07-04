@@ -16,5 +16,8 @@
       77
     ]
   },
-  "test_model": "NameError(\"name 'evaluate' is not defined\")"
+  "test_model": {
+    "f1": 0.15131179891706548,
+    "f1_wo_o": 0.14421375145609622
+  }
 }
